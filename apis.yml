@@ -1,7 +1,29 @@
 aid: baubap
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/baubap.png
 name: Baubap
-description: Baubap is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Baubap is a Mexican fintech offering instant personal microloans through an
+  Android mobile app. Founded in 2018 in Mexico City by Roberto Salcedo and Luis
+  Villarreal, it grants loans from $500 to roughly $9,000 MXN in minutes with no
+  credit-bureau check and no income verification, using its own AI/ML-based
+  alternative-scoring model to serve underbanked and no-credit-history borrowers.
+  On-time repayment unlocks progressively larger amounts and helps users build a
+  positive credit history. Baubap operates as a regulated SOFOM registered with
+  CONDUSEF and supervised by CNBV, complying with Mexican data-protection and
+  financial-security regulations. It has no public developer API; this profile
+  captures the company's identity, its published /llms.txt, and its
+  domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/baubap/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Fintech
+- Lending
+- Microloans
+- Consumer Finance
+- Financial Inclusion
+- Mexico
+- Mobile App
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,20 @@ maintainers:
 common:
 - type: Website
   url: https://baubap.com
+- type: Support
+  url: https://soporte.baubap.com/
+- type: TermsOfService
+  url: https://www.baubap.com/terminos-y-condiciones
+- type: PrivacyPolicy
+  url: https://www.baubap.com/politica-de-privacidad
+- type: SignUp
+  url: https://play.google.com/store/apps/details?id=com.baubap
+- type: LLMsTxt
+  url: llms/baubap-llms.txt
+- type: DomainSecurity
+  url: security/baubap-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

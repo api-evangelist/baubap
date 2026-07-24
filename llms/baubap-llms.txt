@@ -1,0 +1,57 @@
+# Baubap
+
+> Baubap es una aplicación de micropréstamos personales en México. Ofrece préstamos rápidos desde $500 hasta $9,000 MXN sin necesidad de historial crediticio ni consulta a buró de crédito.
+
+## Qué es Baubap
+
+Baubap es una fintech mexicana que ofrece microcréditos personales a través de su aplicación móvil. Está diseñada para personas que no tienen acceso al sistema financiero tradicional o que no cuentan con historial crediticio.
+
+## Producto principal
+
+- **Micropréstamos personales**: préstamos de $500 a $9,000 MXN
+- **Sin buró de crédito**: no se requiere historial crediticio para solicitar un préstamo
+- **Aprobación en minutos**: el proceso es 100% digital desde la app
+- **Construye historial**: los pagos puntuales ayudan al usuario a construir su historial crediticio
+- **Montos crecientes**: conforme el usuario paga a tiempo, accede a montos mayores
+
+## Público objetivo
+
+- Personas en México que necesitan un préstamo rápido
+- Personas sin historial crediticio o con historial limitado
+- Personas que buscan alternativas a préstamos informales
+- Usuarios que quieren empezar a construir su historial crediticio
+
+## Datos clave
+
+- País: México
+- Moneda: Pesos mexicanos (MXN)
+- Rango de préstamos: $500 - $9,000 MXN
+- Requisitos: ser mayor de edad, tener INE vigente, cuenta bancaria y smartphone
+- Disponible en: Android (Google Play Store)
+- Sitio web: https://www.baubap.com
+
+## Preguntas frecuentes
+
+### ¿Baubap consulta buró de crédito?
+No. Baubap no requiere consulta a buró de crédito para aprobar un préstamo. Utiliza su propio modelo de evaluación.
+
+### ¿Cuánto puedo pedir prestado en Baubap?
+Los préstamos van desde $500 hasta $9,000 MXN. El monto inicial depende de tu perfil y va aumentando conforme pagas a tiempo.
+
+### ¿Cuánto tarda la aprobación?
+El proceso es digital y la aprobación puede tomar minutos. Una vez aprobado, el depósito llega a tu cuenta bancaria.
+
+### ¿Qué necesito para solicitar un préstamo en Baubap?
+Necesitas ser mayor de edad, tener una INE vigente, una cuenta bancaria a tu nombre y un smartphone con Android.
+
+### ¿Baubap es seguro?
+Sí. Baubap es una empresa regulada que cumple con la normativa mexicana de protección de datos personales y seguridad financiera.
+
+### ¿Cómo me ayuda Baubap a construir historial crediticio?
+Al pagar tus préstamos a tiempo, Baubap reporta tu buen comportamiento, lo que te ayuda a construir un historial crediticio positivo.
+
+## Contacto
+
+- Sitio web: https://baubap.com
+- App: Disponible en Google Play Store
+- Soporte: a través de la app o el sitio web

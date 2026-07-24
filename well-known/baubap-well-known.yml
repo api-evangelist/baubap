@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of /.well-known/* on baubap.com hosts
+host: https://baubap.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  No /.well-known/ discovery documents are published. Baubap is a consumer
+  microlending mobile app (Mexico) with no public developer API surface. A
+  root-level /llms.txt IS published (saved verbatim at llms/baubap-llms.txt).
