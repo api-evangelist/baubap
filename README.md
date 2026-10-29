@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Baubap is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Baubap is a Mexican fintech offering instant personal microloans through an Android mobile app. Founded in 2018 in Mexico City by Roberto Salcedo and Luis Villarreal, it grants loans from $500 to roughly $9,000 MXN in minutes with no credit-bureau check and no income verification, using its own AI/ML-based alternative-scoring model to serve underbanked and no-credit-history borrowers. On-time repayment unlocks progressively larger amounts and helps users build a positive credit history. Baubap operates as a regulated SOFOM registered with CONDUSEF and supervised by CNBV, complying with Mexican data-protection and financial-security regulations. It has no public developer API; this profile captures the company's identity, its published /llms.txt, and its domain-security posture.
 
-Backed by: 500-global — https://baubap.com
+**Areas:** Company · Fintech · Lending · Microloans · Consumer Finance · Financial Inclusion · Mexico · Mobile App
+
+## Baubap on APIs.io
+
+Everything profiled for Baubap is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/baubap/](https://apis.io/providers/baubap/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Baubap Domain Security](https://apis.io/security/baubap/baubap-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://baubap.com)
+- [Sign up](https://play.google.com/store/apps/details?id=com.baubap)
+- [Support](https://soporte.baubap.com/)
+- [Terms of service](https://www.baubap.com/terminos-y-condiciones)
+- [Privacy policy](https://www.baubap.com/politica-de-privacidad)
+
+## API Evangelist rating
+
+**Kin Score 10.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/baubap/](https://apis.io/providers/baubap/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Baubap: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/baubap/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
